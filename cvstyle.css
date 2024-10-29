@@ -1,0 +1,29 @@
+img { 
+    width: 180px;
+    height: 190px;
+    border-radius: 60%;
+    object-fit: cover; /* This ensures the image covers the entire area */
+    overflow: hidden; /* This hides any overflow */
+}
+   h2 { font-family:"Lucida Console" ;
+    color: #e7a000;
+
+   } 
+     h3 {
+        color: purple;
+     }   
+h1{
+    text-align: center;
+}
+dt {
+    font-weight: bold;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+

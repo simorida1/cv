@@ -1,0 +1,35 @@
+body{
+    background-image: url('parchemain.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+   text-align: center;
+}
+h2{
+    color: blue;
+    background-color: goldenrod;
+}
+p{
+    text-indent: 16px;
+}
+
+.jaune{
+    background-color: yellow;
+}
+.border{
+    border: 3px solid black ;
+    font-size: 0.5em;
+   background-color: rgba(187, 185, 185, 0.774);
+}
+#marg{
+    background-color: red;
+    margin-top: 45px;
+    margin-bottom: 25px;
+    font-size: 3em;
+    margin-left: 85px;
+    margin-right: 85px;
+    border: 3px solid black;
+}
